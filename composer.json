@@ -1,13 +1,6 @@
 {
 	"name": "test/test",
-	"repositories":	[
-		{
-			"type": "git",
-			"url": "https://github.com/jasonxieRD/test.git"
-		}
-	],
-	"version": "0.1",
 	"require": {
-		"test/test": "0.0"
+		"monolog/monolog": "~1.0"
 	}
 }
