@@ -6,8 +6,4 @@
 			"url": "https://github.com/JasonxieDEV/test.git"
 		}
 	],
-	"require": {
-		"test/test": "0.*"
-	}
-
 }
