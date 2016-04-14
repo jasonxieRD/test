@@ -6,7 +6,6 @@
 		}
 	},
 	"require": {
-		"monolog/monolog": "~1.0"
-		
+		"Monolog/Monolog": "~1.0"
 	}
 }
