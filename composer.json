@@ -1,8 +1,8 @@
 {
-	"name": "test/test",
+	"name": "Test/Test",
 	"autoload": {
-		"psr-4": {
-			"test\\test\\": "src"
+		"psr-0": {
+			"Test\\": "src/Test"
 		}
 	}
 }
