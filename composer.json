@@ -1,6 +1,6 @@
 {
 	"name": "Test/Test",
-	"autoload": {
+	"autoload-dev": {
 		"psr-4": {
 			"Test\\": "src"
 		}
