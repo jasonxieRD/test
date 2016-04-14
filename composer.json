@@ -1,3 +1,9 @@
 {
-	"name": "test/test"
+	"name": "test/test",
+	"autoload": {
+		"psr-0": {
+			"test\\": ""
+		}
+	},
+	"target-dir": "src"
 }
