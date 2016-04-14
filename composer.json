@@ -2,7 +2,7 @@
 	"name": "test/test",
 	"autoload": {
 		"psr-4": {
-			"test\\": "src"
+			"test\\test\\": "src"
 		}
 	}
 }
