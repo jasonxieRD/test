@@ -2,7 +2,7 @@
 	"name": "Test/Test",
 	"autoload": {
 		"psr-4": {
-			"Test\\": ""
+			"Test\\": "Test/"
 		}
 	}
 }
