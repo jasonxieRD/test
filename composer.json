@@ -4,5 +4,9 @@
 		"psr-4": {
 			"Test\\": "Test/"
 		}
+	},
+	"require": {
+		"monolog:monolog": "~1.0"
+		
 	}
 }
