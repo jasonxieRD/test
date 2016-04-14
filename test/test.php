@@ -1,4 +1,8 @@
 <?php
-	echo 'test';
-
+	namespace test;
+	class test {
+		public function sayhello() {
+			echo "hello";
+		}
+	}
 ?>
